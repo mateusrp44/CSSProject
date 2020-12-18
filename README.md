@@ -1,3 +1,3 @@
 # CSSProject
 
-Estudo de estilo de folha em cascata.
+Estudo de folhas de estilo em cascata.
